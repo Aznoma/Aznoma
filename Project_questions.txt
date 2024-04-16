@@ -1,0 +1,20 @@
+1.	Bookings of what lead time length and hotel type are more likely to be canceled?
+2.	Statistics of the count of guests by age category each month. 
+3.	Cancellation rates by market segment. 
+4.	Percentage of repeated guests by hotel and market segment. 
+5.	Count of bookings by country. 
+6.	Prevalence of the bookings with different assigned and reserved room types by year and month. 
+7.	Booking changes prevalence and stats (average, maximum) by market segment and month. 
+8.	Length of stay by market segment and comparison with general average value. 
+9.	Repeated guest’s average adr by customer type and hotel compared with non-repeated. 
+10.	Stats of previous non-canceled bookings by hotel and market segment. 
+11.	Meal option by the assigned room type. 
+12.	Average daily rate and revenue stats by hotel and deposit type. 
+13.	Count of check-out status bookings and total revenue by each agent. 
+14.	Count of check-out status bookings and total revenue by each company. 
+15.	Mean of average daily rate and waiting list days stats by customer type. 
+16.	Required car parking spaces by the hotel, total nights booked, and lead time category. 
+17.	Median of special requests and total count by price categories. 
+
+
+ All these tasks were picked by myself as possible questions to answer when exploring the dataset.
